@@ -1,2 +1,2 @@
 # Java-Projects
-Java projects using Interfaces, Stacks, Generics, Polymorphism etc.
+Java projects using Interfaces, OOPS, Stacks, Generics, Polymorphism etc.
